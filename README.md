@@ -1,4 +1,13 @@
 # Single-Page CV
 Single Page HTML CV – Roadmap.sh Project
-1 - copy the code
-2 - run into VS Code
+
+This is my solution for the Single-Page CV project from roadmap.sh.
+
+## 🚀 How to run the project
+Just open the `index.html` file in any browser.
+
+## 🌐 Live Page
+https://anas-png-bot.github.io/Single-Page-CV/
+
+## 📚 Project Source
+https://roadmap.sh/projects/single-page-cv
